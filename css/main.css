@@ -1,0 +1,72 @@
+body {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px;
+    font: bold;
+    color: black;
+    font-size: medium;
+    font-family: cursive;
+    font-style: normal;
+    font-variant: normal;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: red;
+    font-size: larger;
+}
+
+h2 {
+    color: blue;
+    font-size: larger;
+}
+
+main {
+    height: 70vh;
+}
+
+img {
+    width: 90%;
+    height: 80%;
+
+}
+
+figure {
+    background-color: blue;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+#img1{
+    float: left;
+}
+#img2 {
+    float: right;
+}
+section {
+    clear: both;
+    font-weight: bolder;
+    font-size: smaller;
+    color: black;
+    padding: 5px;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: red;
+}
+li{
+    list-style: georgian;
+    line-height: 1.5;
+}
+header, footer {
+    background-color: blanchedalmond;
+    text-align: center;
+}
